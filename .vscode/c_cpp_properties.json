@@ -1,0 +1,57 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/kevin/catkin_ws_2/devel/include/**",
+        "/home/kevin/ws_moveit/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/kevin/catkin_ws_2/src/actionlib-noetic-devel/actionlib/include/**",
+        "/home/kevin/catkin_ws_2/src/navigation-noetic-devel/amcl/include/**",
+        "/home/kevin/catkin_ws_2/src/navigation-noetic-devel/base_local_planner/include/**",
+        "/home/kevin/catkin_ws_2/src/navigation-noetic-devel/carrot_planner/include/**",
+        "/home/kevin/ws_moveit/src/moveit/moveit_planners/chomp/chomp_motion_planner/include/**",
+        "/home/kevin/catkin_ws_2/src/navigation-noetic-devel/clear_costmap_recovery/include/**",
+        "/home/kevin/catkin_ws_2/src/navigation-noetic-devel/costmap_2d/include/**",
+        "/home/kevin/catkin_ws_2/src/navigation-noetic-devel/dwa_local_planner/include/**",
+        "/home/kevin/catkin_ws_2/src/eppacher_hw3/include/**",
+        "/home/kevin/ws_moveit/src/geometric_shapes/include/**",
+        "/home/kevin/catkin_ws_2/src/navigation-noetic-devel/global_planner/include/**",
+        "/home/kevin/catkin_ws_2/src/navigation-noetic-devel/map_server/include/**",
+        "/home/kevin/catkin_ws_2/src/navigation-noetic-devel/move_base/include/**",
+        "/home/kevin/catkin_ws_2/src/navigation-noetic-devel/move_slow_and_clear/include/**",
+        "/home/kevin/ws_moveit/src/moveit/moveit_planners/chomp/chomp_interface/include/**",
+        "/home/kevin/ws_moveit/src/moveit_resources/prbt_ikfast_manipulator_plugin/include/**",
+        "/home/kevin/ws_moveit/src/moveit/moveit_ros/benchmarks/include/**",
+        "/home/kevin/ws_moveit/src/moveit/moveit_plugins/moveit_ros_control_interface/include/**",
+        "/home/kevin/ws_moveit/src/moveit/moveit_ros/move_group/include/**",
+        "/home/kevin/ws_moveit/src/moveit/moveit_ros/occupancy_map_monitor/include/**",
+        "/home/kevin/ws_moveit/src/moveit/moveit_ros/robot_interaction/include/**",
+        "/home/kevin/ws_moveit/src/moveit/moveit_ros/moveit_servo/include/**",
+        "/home/kevin/ws_moveit/src/moveit/moveit_setup_assistant/include/**",
+        "/home/kevin/ws_moveit/src/moveit/moveit_plugins/moveit_simple_controller_manager/include/**",
+        "/home/kevin/ws_moveit/src/moveit_visual_tools/include/**",
+        "/home/kevin/catkin_ws_2/src/navigation-noetic-devel/nav_core/include/**",
+        "/home/kevin/catkin_ws_2/src/navigation-noetic-devel/navfn/include/**",
+        "/home/kevin/ws_moveit/src/moveit/moveit_planners/pilz_industrial_motion_planner/include/**",
+        "/home/kevin/ws_moveit/src/moveit/moveit_planners/pilz_industrial_motion_planner_testutils/include/**",
+        "/home/kevin/catkin_ws_2/src/navigation-noetic-devel/rotate_recovery/include/**",
+        "/home/kevin/ws_moveit/src/rviz_visual_tools/include/**",
+        "/home/kevin/ws_moveit/src/srdfdom/include/**",
+        "/home/kevin/catkin_ws_2/src/usecase1/include/**",
+        "/home/kevin/robot_ws/src/using_markers/include/**",
+        "/home/kevin/catkin_ws_2/src/navigation-noetic-devel/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
