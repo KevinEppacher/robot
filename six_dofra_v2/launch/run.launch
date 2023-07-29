@@ -1,0 +1,5 @@
+<launch>
+
+	<node name="main" pkg="six_dofra_v2" type="main" output="screen"/>
+
+</launch>
